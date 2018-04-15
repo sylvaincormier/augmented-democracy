@@ -1,0 +1,441 @@
+\documentclass[11pt]{article}
+ 
+\begin{document}
+
+
+
+\title{A machine based societal model}
+\author{Sylvain Cormier}
+\date{August 2017}
+\maketitle
+
+
+\section{Abstract}
+
+\paragraph{Introduction}
+\subparagraph{}
+
+
+Current political systems will probably not be able to bring humanity into the twenty second century.
+The decisions needed to be taken as a humanity and the speed at which these decisions 
+need to be taken are not consequent with the severity of the adversity our planet is facing. 
+With recent technological advances in computing, solutions are emerging, often generating hope in the wake
+of their buzz. The amount of data processing required to manage humanity's issues is now available, but the 
+emergence of a system capable to deal with the intricacies and endless granular possibilities of our complex world 
+has yet to emerge. There is yet to be proposed a solution that encompasses relevant technologies into a intelligent societal system.
+This document proposes a societal model where technology serves not only at gathering, sorting, validating and publishing 
+humanity's data so better decisions can be made but also as a regulator for conflicts involving logic or organizational calendar based issues.
+The making of an organic decision instance into a functional self regulating system demands that basic rules be respected.
+These rules can initially be determined by any means. These rules will and should subsequently be verified by the system 
+itself and the people interacting with it always.
+Technology, individuals and officials should all abide by design not only towards efficiency but towards intelligence
+by making communication more accurate, always available, questionable and modifiable.
+
+Institutions in this document are: Entities or coproprations, Individuals, Officials, Operating system
+
+\section{Individuals}
+\subparagraph{functions}\
+\begin{enumerate}	
+\item		Create questions, issues,  government contracts allocation	
+\item		Create evaluation grids and tests for enabling contributors to vote on questions, issues and
+		government contracts allocation
+\item		Link or assign scientific papers or media to questions 
+\item		Create test question	
+\item		Validate questions, issues,  government contracts allocation
+\item		Validate evaluation grids and tests		
+\item		Take tests to vote on government contracts allocation, questions and issues		
+\item		Vote on questions and government contracts allocation and issues
+\item		Invest money in questions of interest
+\item		Contribute to operating system codebase
+\item		Code review /test
+\item		Elect officials
+\item		Maintain infrastructures 
+\item		Contribute to security/integrity of system
+\item		Promote causes
+\item		Promote adherence, implication and cohesion
+\end{enumerate}
+
+\subparagraph {Areas of responsibility}
+\begin{enumerate}
+\item		The area of responsibility of the individual is global
+\item		The individual is accountable to voting against approved and documented facts
+\item		An individual has access to all information at any time.
+\item		Individuals are responsible for the projects they contributed to
+\item		Individuals can contribute to any project
+\item		Salary is calculated according to each and every one's  capacity of contribution
+\item		The capacity of contribution can be evaluated according to a weighing
+		environmental, physical, psychological or any other factor which
+		could influence the amount of successful transactions generated per unit of time. 
+\item		Each transaction in its turn has a impact Factor which is weighed according to environmental, social, political, financial  		
+		or any other factor which could influence the amount of progress, wealth, health and well being of the population 		
+		and its environment.
+\item		Contribution to operating system is mandatory according to individual capacity of contribution
+\item		Contribution to the operating system ensures the availability of social benefits
+\end{enumerate}
+
+\subparagraph {benefits}
+\begin{enumerate}	
+\item			Individuals get paid for any work they do
+
+\item			Individuals can apply deductions to their income tax
+
+\item			Individuals can be entitled to financial ?accomplishment? bonus according to the level of 
+		contribution to the operating system 
+
+\item			Individuals can be entitled can be to social privileges and advantages according to their level of 
+		contribution to the operating system 
+\end{enumerate}
+
+\section{Officials}
+\subparagraph{Functions}
+\begin{enumerate}
+\item	Elected officials executes all functions of present day officials.
+\item Addresses and mediates with bodies of population who voted against documented facts.
+\item Translates operating system results into applicable laws.
+\item Motivator, public figure at ceremonies.
+\end{enumerate}
+
+\subparagraph{Areas of responsibility}
+
+\begin{enumerate}
+\item	The area of  area of responsibility of the Official is to the operating system and existing laws.
+\item	Officials are accountable to the information provided by the operating system. 
+\item Official pass laws according to their respective countries's existing laws and operating system information.
+\end{enumerate}
+
+\subparagraph{Benefits}
+
+\begin{enumerate}
+\item	Salary
+\item	Public recognition
+\item	Simplified task 
+\end{enumerate}
+
+\paragraph{Entities}
+\subparagraph{Functions}
+
+\begin{enumerate}
+\item Finances bid contests and questions by injecting money into operating system. 
+\item	Hires workers and contractors enabling them with a salary
+\item	Contributes to operating system development/maintenance
+\end{enumerate}
+
+\subparagraph{area of  area of responsibility}
+
+\begin{enumerate}
+\item The area of responsibility of Entities is global.
+\item	Entities are accountable to the information provided by the operating system. 
+\item	Entities are accountable to officials and the laws of the countries they are conducting buisness in.
+\item	Entities contribute to societal growth and prosperity.
+\end{enumerate}
+
+\subparagraph{Benefits}
+\begin{enumerate}	
+\item Direct consumer base.
+\item Advertizing by direct cause promotion, public recognition.
+\item Access to suppliers.
+\item Influence speed of bid processing by financing
+\end{enumerate}
+		
+\section{Operating system}
+\subparagraph{functions}\
+
+\begin{enumerate}
+\item	 Be autonomous , constantly retrieving and broadcasting.			
+\item Seek other systems to merge with: Continuously poll network and merge data.
+\item Manage user profiles.
+\item Gather and merge questions through semantic analysis.
+\item Gather tests/grids.
+\item Conduct question/grid evaluation.
+\item Conduct test/grid evaluation.
+\item Gather papers from which to derive questions for test.
+\item Gather media from which to derive questions for test.
+\item Manage evaluation system.
+\item Store and back up data redundantly.
+\item Schedule transactions.
+\item Provide an efficient and practical interface for query and searches. 
+\item Display comprehensible, convincing and useful metrics.
+\item Manage news feed. 
+\item Offer hypothetical scenarios and probabilities. 
+\item Provide ergonomic and universal social media interface.
+\item Calculates individual work remuneration benefits and privileges.
+\item Provide a forum where people can contribute to test grids in real-time
+\item peer reviewing mechanism for proof other than papers and media. 
+\item Manages and schedules the election of officials by individuals.
+\item Provides documentation to its internal workings and facilitates its comprehension inherently in its design.
+\item Determines the level of importance of a vote according to preservation of life, environment, 
+		equality, progress, economy, resources, well being.
+\item Create job board.
+\item Plan anything it can. 
+\end{enumerate}
+
+\subparagraph{Areas of responsability}
+	
+\begin{enumerate}
+\item Keep all source code open.
+\item Ensure universal user access.
+\item Entice and allow for increasing quantity and quality of user input.
+\item Validate individuals.
+\item Validate transactions.
+\item Minimize environmental footprint.
+\end{enumerate}
+			
+\subparagraph{Benefits}
+
+\begin{enumerate}
+\item Useful organized information, broadcasted and retrieved.
+\item Rational, non biased data analysis.
+\item Modeled data so it is ready for interfacing with technologies. 
+\item Model and data available for deep learning , artificial intelligence and more bio mimicking systems such as HTM.
+\item The operating system has no decisive power.
+\item Operating system empowers everyone with situations of truth.
+\item Operating system eliminates the need for cheating.
+\end{enumerate}
+
+\section{Regulations}
+\subparagraph{General policy}
+
+\begin{enumerate}	
+\item The operating system runs along the present political system and is intended to serve as an accurate and official output of people's 	
+advocacy as well unbiased data output from the system's analysis, but never as a decision making instance.
+\item Individual participation to the operating system is mandatory.
+\item Officials have to gain extensive acknowledge of operating system data collection, votes, studies, simulations and outputs in order to pass laws.
+\item Entities and individuals can contribute money or resources to a question, call for bids or any other form of transaction.
+\item Money can be contributed towards the augmentation of resources working on a particular question, issue or call for bid.
+\item A node in the system cannot be ignored. All physical machines must be allowed to communicate.
+\item Everything in the system can be voted on and reviewed.
+\item Information about operating system output and passed laws is broadcasted and discussed on dedicated forums.
+\item Operating system transactions are recorded and validated with blockchain implementation.
+\item Operating system transactions cannot be blocked by purposely isolating devices.
+\item The calculated incidence or consequence of modifications to the operating system, bid selection our question result		must be made public and advertised.
+\item Only individuals and officials can call for operating system modifications.
+ \end{enumerate}
+
+\subparagraph{Official policy}
+\begin{enumerate}		
+\item Laws are made as in present day by elected officials.
+\item Officials base their decision on operating system output and practical diplomacy.
+\item Officials enforces individual and entity contribution to the operating system.
+\item Officials enforces functioning of operating system.
+\item Take all decisions in accordnce to existing government protocol.
+
+ \end{enumerate}
+
+\subparagraph{Individual policy}
+\begin{enumerate}		
+\item Elects official.	
+\item Contributes to operating system.
+\item Choses how he/she contributes to operating system.
+\item Call for operating system modification. 
+\item Flag irregularities.
+\item Votes on questions and call for bids.
+\item Votes on operating system modifications.
+\item Votes on test grid elements validity.
+\item Votes on question formulation amendment.
+\end{enumerate}
+ 
+\subparagraph{Entity policy}
+\begin{enumerate}
+\item Contributes to operating system.
+\item Decides how it contributes to operating system.
+\end{enumerate}
+
+\subparagraph{Operating system level}
+\begin{enumerate}
+\item  Operating system flags irregularities without discrimination.
+\item  Operating system confronts officials with hard truth and informed public opinion.
+\item  Decision-making inside the operating system 
+\end{enumerate}
+
+\subparagraph{Operating system policy}
+		
+\begin{enumerate}
+\item Arranges vote for operating system modification if question is asked.
+\item Calculates remuneration.
+\item Defines priorities.
+\item Conducts simulations.
+\item Conducts votes.
+\item Flags irregularities and ethics concerns.
+\end{enumerate}
+
+
+
+\section{Core Values}
+
+	A social structure is essential to society's cohesion.
+	Blind patriotism or charisma based politics have no 
+	pertinence in face of the global challenges we face. 
+	Our methods should be relying on knowledge, data organized
+	by engineered systems.
+	The system is totally transparent and accessible and any operation on the system is recorded.
+	The operating system allows individuals to change anything they believe is wrong 
+	or unjust with the system and obtain positive change in a reasonable lapse of time.
+	In this model, individuals become the solution by contribution where they want, how they want and how much they want. 
+	To promote the respect of equality between humans, such a system could certainly be of help.
+
+	The information used to render justice has been validated, corroborated, recorded and published.
+	This is why the operating system would ensure that information gathered concerning decisions by government 
+	and the official's final decision in passing a law, facts, simulations and analysis would be part of a blockchain
+	where all decisions are accountable.
+	This accountability, for practical purposes, can start as being demonstrative.
+	An elected official would not be held accountable but his popularity would then fail for obvious reasons.
+	
+	A Source of income / guaranteed base salary ensures that all parts of the system are functional on a biological level.
+	For this, everyone is equal in the face of the operating system. 
+	To help pay for costs, there must be mandatory contribution from everyone. 
+	Not everyone has the same capacity of contribution of physical, psychological, emotional, environmental etc.. factors.
+	The system provides a way to calculate a proportional rule where the obligations and remunerations of everyone is adjusted
+	to their situation.
+	The Operating system requires all types of contributions to match these various abilities, from "mechanical turc" to system architect.
+	Open source and must provide documentation.
+	The complexity of the operating system and its data, should be comparable or exceed the complexity of financial systems we have today. 
+	One of the functions of the operating system is to provide universal access. 
+	This stretches beyond providing interfaces for physically and mentally challenged people or providing interaction in all languages. 
+	It also must constantly be refactored and redesigned not only for the performance of its engine,
+	but for also for the simplification of its design to democratize and promote as much as possible user involvement. 
+	The would ideally eliminates the possibility to cynically criticize the system for being unchangeable.
+
+\section{Descision making capacity}
+		
+	The government, Individuals and entities are subject to the operating system time and schedule.
+	With the aid of mechanical turks, test grid makers, voters and programmers, 
+	a cohesive and efficient entity emerges into powerful data analysis tool, 
+	refining its processes and learning from past decisions and multiple other factors, 
+	constantly redefining itself as nodes are merged.
+	The operating system yields only information and a schedule.
+	It has no power to make decisions.
+	This coincides with issues being debated in government.
+	Information about issues is renewed in real time.
+
+	Biomimicry is humanity's more biocentric and less anthropocentric way of looking at systems.
+	There are concepts which are so imminent in nature that to ignore them would 
+	preposterous and somewhat pompous.    
+	For instance, biological systems have cycles when certain physiological changes occur.
+	Biological systems are programmed with adaptations to these physical events but also to 
+	to other changes which are often unpredictable but more recurring.
+	Could we perhaps transpose that in our "social tissue", for example? 
+	The election of an official can come every four years and the decisions taken by this official can only come as fast as his bureaucracy.
+	The operating system operates along side the government at tremendous speeds with information that will alleviate bureaucracy. 
+	It will feed the government employees with the valuable data they need to prepare the officials to pass laws, faster. 
+	Laws will one day be able to change rapidly and dynamically, because of available knowledge and global consent.
+
+\paragraph{Effectiveness}
+\begin{enumerate}
+\item Distributed agreement protocol instead of proof of work (Ripple blockchain)
+\item Replace blocks with ledgers
+\item Arbitrary assets
+\item Interactive proof assistants  
+\end{enumerate}
+
+paragraph{Resources and financing}
+The operating system is an economic system in itself.
+\subparagraph{System currency value}
+\begin{enumerate}
+\item The total amount of work tied in to essential services
+\item The total amount of money in the system
+\item The amount of money owed by the system voluntary workers (Kickoff initial stage)
+\end{enumerate}
+
+\subparagraph{Question importance}
+\begin{enumerate}
+\item Determine the urgency level of a question
+\item Capacity of contribution of user
+\item Level of permitted contribution is evaluated according to the the capacity of contribution and the urgency level of a question
+\end{enumerate}
+ 
+ \paragraph{Effectiveness}
+The system is regulated by distributed agreement protocol and ledger validation.
+By its processes, it accumulates vast amounts of data to be used by bureaucracy in its daily administration.
+A deferred, adjustable, sometimes directed workforce, pending to the needs of government  policy making and enforcement. 
+Crowdfunding by corporate and individual contributions to specific questions is allowed.(Bidding on certain questions)
+It gets resolved faster. 
+The system hires as many people 
+as it needs to address the issues that are submitted to it.
+When the vote is done, 
+money is distributed amongst contributers as a bonus for having resolved the issue within the operating system's
+estimated completion time. 
+The rest of the money is funnelled back into general system maintenance and design.
+
+ \paragraph{Trust and insight}
+
+A trustworthy and insightful policy system can be built upon a platform
+that is always completely open, subject to peer review 
+and unconditionally used by all citizens, corporations and politicians.
+The operating system cannot gain bias by its interaction with the users,
+it uses logic.
+
+
+
+\paragraph{Flexibility}
+
+The mechanisms offered by the mediation system can be used to revise and improve to structure and components.
+
+\paragraph{Protection against the abuse of power}
+
+
+The open source model and block chain ensure a protection against centralized control.
+As long as an obligatory merge of all instances is enforced, not one body can gain control
+of the system.
+ 
+
+\paragraph{Accountability}
+
+Pending issues are prioritized by the system and the code 
+for this mechanism can constantly be under revision and in permutation.
+If issues are not taken into consideration by the elected officials,
+the publication platform will advertise this taking into account priority 
+and urgency and the official will publically be held responsible.
+ 
+ 
+\paragraph{General security}
+
+The system is for consultation. 
+Wars, battles and disputes are conducted virtually 
+by merging distributed instances of the operating system.
+System operating functions are kernel based and isolated from user space.
+Mandatory routines are run.
+ 
+
+
+\section{Conclusion}
+
+This is a system where everyone can feel they have the power to change things,
+where the question at hand and issues are more important than the political party.
+The degree of severity of issues will be determined according to the inner workings
+of the system instead of human opinion. 
+The system will start evolving by being programmed, then by means of user input, 
+then by user input validation, and the publication of results for all to see, especially elected officials.
+This should modify the discourse and manner working of politicians.
+Most people today feel the voting process is just not serving them.
+Getting rid of the present system seems impossible, but implementing this voting and polling system as 
+a logical and reliable oracle seems plausible. 	
+Today, even if a politician decides he wants to make a difference, he or she has to waddle through
+a mess of lobby pressure and adhere to the party line. 
+The voter is left powerless to see his world and the world he foresees for his children be disgracefully manhandled. 
+This system that eliminates cynicism by giving everyone direct access to democracy at anytime, with the level of implication they want.
+This system could also eliminate corruption entirely by allowing the flow of capital from private interests 
+to fund questions instead of the political party.
+Enter the era of a world ruled by a social media platform for collecting input from citizens concerning social and political choices, 
+government tenders and any other situation where transparency is preferred.
+With the help of AI and deep learning, this system will not only speed up the implementation of regulations but allow for constant modifications and updates to be made not unlike any organic body, a real ?social tissue?.
+This system consists of a familiar, easy to use interface where users can posts questions, modify existing questions, 
+vote on question formulation, vote on a question after having taken a test verifying they know hard facts,
+ and invest money in a particular question if they wish. 
+The transactions are validated using blockchain technology and agglomerated using code versioning systems. 
+The open source operating system on which it is built is also to be managed in the same fashion with anybody being able to view the processes and contribute if he or she wishes.
+A major safeguard is put in place in the sense that a vote on a question must be backed by a test the user passed,  proving he or she knows the main facts concerning this issue. 
+Voted in the same manner which consists of facts, this test is made of a grid which consists of links, papers, studies etc.. which carry a specific weight.
+This system also aims at dissolving the issues surrounding corruption and bribing of public officials directly by allowing anyone to invest money in particular questions of their interest. 
+This will influence the speed at which this question will be treated but will never influence the result of the question itself. 
+This money is then used to pay contributors to this question, contributors to tests grids or programmers or administrators of the system.
+The biggest problem with this type of system is user incentive.
+Incentive-centered design of the interface along with social momentum, effective results in changing policy, transparency, financial retribution and government refunds are all ways to make this system appealing to all.
+For example, someone could pay part of his or her income tax by contributing to the system or pay some money due to the city in parking tickets.
+This system can be implemented at first alongside the existing system and be used as direction for politicians to respect.
+The best fail safe scenario for the use of this system would be mandatory use for all citizens as to poll everyone.
+Since the capacity of contribution is not the same for all, adaptive technology must be used to ergonomically facilitate the input of information, allowing people with any disability to contribute with their own effort.
+The freedom of choosing which issues citizens want to contribute to must remain at the core of the system to promote usage but certain issues, often pressing and crucial should mandatory.
+
+
+ 
+\end{document}
