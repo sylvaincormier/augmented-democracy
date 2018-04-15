@@ -1,0 +1,124 @@
+
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} 
+\begin{document}
+
+
+
+\title{Système de « Facilitation Démocratique  »}
+\author{Sylvain Cormier}
+\date{Janvier 2018}
+\maketitle
+
+
+\section{But}
+\begin{enumerate}
+\item{Augmenter la validité du vote citoyen.}
+\item{Augmenter l'utilisation du vote citoyen.}
+\item{Favoriser et faciliter l'implication citoyenne.}
+\item{Certifier, quantifier et rétribuer les intéractions, transactions et implications d'un vote citoyen.}
+\item{Favoriser la stabilité d'un contexte d'offre et de demande pour l'apport citoyen.}
+\end{enumerate}
+\section {Brève description du projet:}
+\paragraph*{\textbf{Création d’un portail permettant:}}
+
+
+\begin{enumerate}
+\item{D'enregistrer des questions citoyennes et l'information contribuée concernant ces questions dans un système de certification décentralisé.} 
+\item{De trier les questions similaires afin de de définir leur unicité en adressant la sémantique, la grammaire et le sens. }
+\item{D' insérer, valider et storer l'information concernant les questions. }
+\item{De créer un simple test vérifiant les faits selon l'information validée. 	}
+\item{D'augmenter la valeur du vote citoyens en imposant ce test pour accéder au vote.}
+\item{De conduire un vote sur une question.}
+\item{De publier les résultats des votes de manière à favoriser la transparence.}
+\end{enumerate}
+
+\section {Engagement(s) du (des) promoteur(s): }
+
+\paragraph*{\textbf{Je m’engage à:}}
+\begin{enumerate}
+\item{Utiliser des technologies ouvertes et libres.}
+\item{Favoriser un environnement de travail équitable et juste.}
+\item{D'assurer les principes d'accessibilité au système et de transparence.}
+\item{De participer au design initial et à la programmation logicielle.}
+\end{enumerate}
+\paragraph*{\textbf{Leader(s) du projet:}\\}
+ 
+\textbf{Sylvain Cormier}\\
+740 Bloomfield Outremont PQ\\
+H2V3S3\\
+514 804 8434\\
+
+\section {Description complète du projet:}
+\paragraph*{\textbf{Framework pour l’implication citoyenne}\\}
+Le projet offre un portail permettant aux citoyens de diversifier leur implication citoyenne  	autour des processus de validation et certification d'une question citoyenne. 
+L'enregistrement d'une question engendre un processus certifiant son existence
+et déclenche les étapes nécessaires vers l'éxécution du vote sur la question.
+Le projet suggère un système permettant de bonifier le vote citoyen en favorisant l'éducation et la conscientisation du citoyen envers des faits recueillis, établis, puis enregistrés. Pour valider son vote, un citoyen doit reconnaître les faits vérifiés sur cette question par l'entremise d'un test.
+Le test peut être repris autant de fois que le citoyen désire, sa reconnaissance des faits doit être inscrite dans le registre distribué a priori le vote.
+Ainsi, lors du vote, les citoyens et citoyennes partagent de façon légale, une grille d'évaluation commune.
+
+Les citoyens et citoyennes contribuent par l’enregistrement d'une question concernant la ville et par la soumission d'informations pertinentes à ces questions.
+Les citoyens et citoyennes contribuent en validant les informations recueuillies et en procédant à l'élaboration d'une grille de test grâce aux informations recueillies. (Études, images, enregistrement, références aux lois existantes, fichiers excel, liens etc...)
+Les citoyens et citoyennes contribuent en répondant au test énonçé çi-haut  afin de valider leur vote pour la question.
+Les citoyens et citoyennes contribuent ensuite en participant au vote concernant la question.
+Chacune des transactions effectuées çi-haut en est enregistrée dans un registre distribué.
+
+\section {À quel moment ce projet devrait-il se réaliser?} 
+Version alpha: Août 2018
+\section {Où ?} 
+Montréal
+
+\section {En quoi le projet contribue-t-il à la prospérité de la métropole?} 
+\begin{enumerate}
+\item{Ce projet favorisera l'implication citoyenne et le sentiment communautaire. }
+\item{Ce projet peut instaurer une micro-économie d'implication sociale viable.}
+\item{Ce projet peut contribuer à diminuer le cynisme envers les élus en engageant 
+quiconque possédant un grief à s'impliquer dans un processus en lequel il ou elle a confiance.}
+\item{Ce projet supporte le citoyen et la citoyenne dans sa démarche en lui offrant accès à un chemin sécurisé et enregistré à l'abri des actions partisanes, de la collusion, de l'abus de confiance, des conflits d'intérêts, du populisme, des « guerres de clochers » et de
+l'inertie politique qui en découle. }
+\end{enumerate}
+
+\section {Décrivez le caractère novateur du projet ?}
+
+Ce projet suit la tendance vers l'application des technologies
+de consentement distribué et d' intelligence artificielle à des problèmes
+concrets. Ce projet se démarque plutôt par le choix d'une
+application  idéologique à vocation socio/politique qui utilise 
+les concepts développés dans la troisième génération de certification par systèmes 
+distribués ainsi que l'utilisation de l'architecture neo-corticale comme modèle de propagation d'information pour systèmes intelligents lors de l'analyse sémantique.
+
+
+
+\section {Potentiel de rayonnement ? }
+Ce projet veut se positionner à l'avant plan dans l'implémentation
+des technologies de registre distribué et d'intelligence artificielle 
+en offrant une « histoire inspirante » tangible, 
+rentable, communautaire et bienfaisante.
+
+\section {Qui sont les partenaires impliqués dans ce projet ? }
+
+\textbf{Sylvain Cormier}\\
+740 Bloomfield Outremont PQ\\
+H2V3S3\\
+514 804 8434\\
+
+\section {Quels obstacles rencontrez-vous ? }
+
+Nil
+
+\section {Le financement du projet est-il prêt ?}
+Non. Stade préliminaire.
+
+
+
+
+
+
+
+
+
+
+\end{document}
+
