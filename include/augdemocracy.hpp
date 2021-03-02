@@ -15,7 +15,9 @@ public:
     augdemocracy(name receiver, name code, datastream<const char *> ds) : contract(receiver, code, ds),
                                                                       _submitters(receiver, receiver.value), 
                                                                        _voters(receiver, receiver.value), 
-                                                                       _reviewers(receiver, receiver.value){}
+                                                                       _reviewers(receiver, receiver.value), 
+                                                                       _questions(receiver, receiver.value),
+                                                                       _grids(receiver, receiver.value){}
     
     [[eosio::action]]
     void regsubmitter(const name submitter);
@@ -30,7 +32,7 @@ public:
     void regquestion(const name submitter, const std::string &question);
 
     [[eosio::action]]
-    void delquestion(const name submitter, const std::string &question);
+    void delquestion(const name submitter, uint64_t id);
 
      [[eosio::action]]
     void unregrevs();
@@ -39,7 +41,7 @@ public:
     void unregvoters();
 
     [[eosio::action]]
-    void unregquests();
+    void delquestions();
     
     [[eosio::action]]
     void unregquest(const name submitter, const uint64_t id);
@@ -75,7 +77,7 @@ public:
         uint64_t primary_key() const { return voter.value; }
     };
 
-    typedef eosio::multi_index<"voters"_n, submitter_info> voters_table;
+    typedef eosio::multi_index<"voters"_n, voter_info> voters_table;
 
     voters_table _voters;
 
@@ -90,90 +92,36 @@ public:
     typedef eosio::multi_index<"reviewer"_n, reviewer_info> reviewers_table;
 
     reviewers_table _reviewers;
+
+    struct [[eosio::table]] question_info {
+        uint64_t id;
+        name submitter;
+        uint64_t date;
+        //double voted = 0;
+        //std::vector<eosio::name> voters;
+        //std::vector<bool> answers;
+        //Test_Grid 
+        uint64_t primary_key() const { return id; }
+    };
+
+    typedef eosio::multi_index<"questions"_n, question_info> questions_table;
+
+    questions_table _questions;
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    struct [[eosio::table]] grid_info {
+        uint64_t id;
+        name submitter;
+        uint64_t date;
+        
+        //double voted = 0;
+        //std::vector<eosio::name> voters;
+        //std::vector<bool> answers;
+        //Test_Grid 
+        uint64_t primary_key() const { return id; }
+    };
+
+    typedef eosio::multi_index<"grids"_n, grid_info> grid_table;
+
+    grid_table _grids;
 
 };
